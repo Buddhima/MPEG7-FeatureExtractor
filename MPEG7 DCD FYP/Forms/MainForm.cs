@@ -158,7 +158,7 @@ namespace WindowsFormsApplication1
                 inputFileTxt.Text = folderDialog.SelectedPath;
                 fsr = new FileSystemReader();
                 
-            }
+            } 
         }
 
         private void outDirSelectBtn_Click(object sender, EventArgs e)
